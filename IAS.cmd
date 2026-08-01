@@ -6,12 +6,9 @@
 
 ::============================================================================
 ::
-::   IDM Activation Script (IAS)
-::
-::   Homepages: https://github.com/WindowsAddict/IDM-Activation-Script
-::              https://massgrave.dev/idm-activation-script
-::
-::       Email: windowsaddict@protonmail.com
+::   JP IDM Activation Script (IAS)
+::	for bugs, please message me :
+::   Facebook:JP ULIT 
 ::
 ::============================================================================
 

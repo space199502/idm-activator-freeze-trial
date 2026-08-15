@@ -6,10 +6,11 @@
 
 ::============================================================================
 ::
-::   Improved and Integrated IDM Activation Script by (JP ULIT)
+::   IDM Activation Script (By ZIED)
 ::
-::   Facebook: JP ULIT
-::	 Messenger: @JpNotFound.404
+::   Homepages: https://github.com/zinzied
+::
+::       Telegram: @zinzied
 ::
 ::============================================================================
 
@@ -95,7 +96,7 @@ popd
 
 cls
 color 07
-title  Improved and Integrated IDM Activation Script by (JP ULIT)
+title  IDM Activation Script %ZIED%
 
 set _args=
 set _elev=
@@ -266,7 +267,7 @@ if defined quedit goto :skipQE
 ::========================================================================================================================================
 
 cls
-title  Improved and Integrated IDM Activation Script by (JP ULIT)
+title  IDM Activation Script %ZIED%
 
 echo:
 echo Initializing...
@@ -370,11 +371,11 @@ if not defined terminal mode 75, 28
 
 echo:
 echo:
-call :_color2 %_White% "             " %_Green% "Improved and Integrated IDM Activation Script by (JP ULIT)"
+call :_color2 %_White% "             " %_Green% "Create By ZIED"
 echo:            ___________________________________________________
 echo:
-echo:               Facebook: JP ULIT
-echo:               Messenger: @JpNotFound.404
+echo:               Telegram: @zinzied
+echo:               Github: https://github.com/zinzied
 echo:            ___________________________________________________
 echo:
 echo:               [1] Activate

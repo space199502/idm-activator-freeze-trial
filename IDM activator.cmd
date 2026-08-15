@@ -6,11 +6,11 @@
 
 ::============================================================================
 ::
-::   IDM Activation Script (By ZIED)
+::   Improved and Integrated IDM Activation Script by (JP ULIT)
 ::
-::   Homepages: https://github.com/zinzied
-::
-::       Telegram: @zinzied
+::   Facebook: JP ULIT
+::	 Messenger: @JpNotFound.404
+::       
 ::
 ::============================================================================
 
@@ -96,7 +96,7 @@ popd
 
 cls
 color 07
-title  IDM Activation Script %ZIED%
+title  IDM Activation Script %JP ULIT%
 
 set _args=
 set _elev=

@@ -52,7 +52,7 @@ if (-not $args) {
     try { [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12 } catch {}
 
     $URLs = @(
-        'https://raw.githubusercontent.com/space199502/idm-activator-freeze-trial/refs/heads/main/IDM%20activator.cmd'
+        'https://raw.githubusercontent.com/space199502/idm-activator-freeze-trial/refs/heads/main/IDM.cmd'
        
     )
     Write-Progress -Activity "Downloading..." -Status "Please wait"

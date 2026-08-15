@@ -371,11 +371,11 @@ if not defined terminal mode 75, 28
 
 echo:
 echo:
-call :_color2 %_White% "             " %_Green% "Create By ZIED"
+call :_color2 %_White% "             " %_Green% "Improved and Integrated IDM Activation Script by (JP ULIT)"
 echo:            ___________________________________________________
 echo:
-echo:               Telegram: @zinzied
-echo:               Github: https://github.com/zinzied
+echo:               Facebook : JP ULIT
+echo:               Messenger: @JpNotFound.404
 echo:            ___________________________________________________
 echo:
 echo:               [1] Activate

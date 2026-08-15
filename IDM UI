@@ -2,8 +2,10 @@
 
 if (-not $args) {
     Write-Host ''
-    Write-Host 'Need help??? Message me on Facebook: JP Ulit ' -NoNewline
-    Write-Host 'Messenger: @JpNotFound.404' -ForegroundColor Green
+    Write-Host 'Need help??? Message me on Facebook:  ' -NoNewline
+	Write-Host 'JP Ulit' -ForegroundColor Green	
+	Write-Host 'Messenger:' -NoNewline
+    Write-Host ' @JpNotFound.404' -ForegroundColor Green
     Write-Host ''
 	
 }

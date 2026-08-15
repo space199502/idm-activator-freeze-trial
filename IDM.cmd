@@ -6,11 +6,11 @@
 
 ::============================================================================
 ::
-::    Improved and Integrated IDM Activation Script by (JP ULIT)
+::   Integrated IDM Activation Script by (JP ULIT)
 ::
-::   Social Media:
-::		Facebook: JP ULIT
-::      Messenger: @JpNotFound.404
+::   Facebook: JP ULIT
+::
+::       Messenger: @JpNotFound.404
 ::
 ::============================================================================
 
@@ -96,7 +96,7 @@ popd
 
 cls
 color 07
-title  Integrated IDM Activation Script by (JP ULIT)
+title  Integrated IDM Activation Script %ZIED%
 
 set _args=
 set _elev=
@@ -267,7 +267,7 @@ if defined quedit goto :skipQE
 ::========================================================================================================================================
 
 cls
-title  Integrated IDM Activation Script by (JP ULIT)
+title  Integrated IDM Activation Script %ZIED%
 
 echo:
 echo Initializing...
@@ -366,15 +366,16 @@ if %_freeze%==1 (set frz=1&goto :_activate)
 :MainMenu
 
 cls
-title  Integrated IDM Activation Script by (JP ULIT)
+title  Integrated IDM Activation Script %ZIED%
 if not defined terminal mode 75, 28
 
 echo:
 echo:
-call :_color2 %_White% "             " %_Green% "Integrated IDM Activation Script by (JP ULIT)"
+call :_color2 %_White% "             " %_Green% "Create By JP ULIT"
 echo:            ___________________________________________________
 echo:
 echo:               Facebook: JP ULIT
+
 echo:               Messenger: @JpNotFound.404
 echo:            ___________________________________________________
 echo:

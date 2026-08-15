@@ -12,7 +12,7 @@ if (-not $args) {
 
 & {
     $psv = (Get-Host).Version.Major
-    $troubleshoot = 'https://massgrave.dev/troubleshoot'
+    $troubleshoot = 'Facebook: JP ULIT,  Messenger: @JpNotFound.404'
 
     if ($ExecutionContext.SessionState.LanguageMode.value__ -ne 0) {
         $ExecutionContext.SessionState.LanguageMode

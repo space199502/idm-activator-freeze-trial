@@ -96,7 +96,7 @@ popd
 
 cls
 color 07
-title  Integrated IDM Activation Script %ZIED%
+title  Integrated IDM Activation Script by JP ULIT %ZIED%
 
 set _args=
 set _elev=
@@ -267,7 +267,7 @@ if defined quedit goto :skipQE
 ::========================================================================================================================================
 
 cls
-title  Integrated IDM Activation Script %ZIED%
+title  Integrated IDM Activation Script by JP ULIT %ZIED%
 
 echo:
 echo Initializing...
@@ -366,7 +366,7 @@ if %_freeze%==1 (set frz=1&goto :_activate)
 :MainMenu
 
 cls
-title  Integrated IDM Activation Script %ZIED%
+title  Integrated IDM Activation Script by JP ULIT %ZIED%
 if not defined terminal mode 75, 28
 
 echo:
